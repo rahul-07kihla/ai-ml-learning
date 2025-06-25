@@ -37,3 +37,8 @@ what we need for this
 
 can do
 1. self driving car
+
+data science project
+1. Collect data
+2. Analyze data
+3. Suggest hypotheses/actions
