@@ -42,3 +42,15 @@ data science project
 1. Collect data
 2. Analyze data
 3. Suggest hypotheses/actions
+
+Libraries for the AI/ML
+1. easyocr - image to text extraction (https://www.jaided.ai/easyocr/install/)
+2. google-cloud-vision - with remote image also local (https://cloud.google.com/vision/docs/ocr#vision_text_detection_gcs-python)
+
+📝 Summary Table
+Tool	          Accuracy	  Language Support	Offline?	Handwriting	  Structured Output
+EasyOCR	        High	      80+	              ✅	        ✅	        ✅ (basic)
+PaddleOCR	      Very High	  80+	              ✅	        ❌ (less)	  ✅✅✅
+Google Vision	  Very High	  100+	            ❌	        ✅	        ✅✅
+Azure/AWS OCR	  Very High	  100+	            ❌	        ✅	        ✅✅✅
+
